@@ -1,1 +1,13 @@
 profile.txt
+
+pycache/
+*.pyc
+*.pyo
+
+chroma_db/
+
+venv/
+.venv/
+
+.env
+.DS_Store
