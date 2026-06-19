@@ -40,7 +40,7 @@ def addDocument(submission: DocumentSumbission):
 
     return{
 
-        "message" : f"Added {len(chunks)} cunks for user'{submission.userName}'.",
+        "message" : f"Added {len(chunks)} chunks for user'{submission.userName}'.",
         "userName": submission.userName,
         "chunks_added": len(chunks),
     }
