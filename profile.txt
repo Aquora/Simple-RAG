@@ -1,0 +1,11 @@
+My name is Eric Yang.
+I'm currently learning about cloud computing, AI, and DevOps.
+
+My career goal is to become a AI engineer that helps build AI models or eventually go into quantitative trading.
+I'm especially interested in Machine Learning, AI, Deeplearning, Agentic AI, Automation.
+
+I have experience with Python, Java, C++.
+I'm currently building projects on NextWork to grow my hands-on skills.
+
+For fun, I enjoy Gyming, hiking, rock climbing.
+A fun fact about me is I am a Pole Vaulter.
