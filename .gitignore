@@ -1,10 +1,10 @@
-profile.txt
+
 
 pycache/
 *.pyc
 *.pyo
 
-chroma_db/
+chroma/
 
 venv/
 .venv/
